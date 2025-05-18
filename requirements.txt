@@ -1,0 +1,9 @@
+pipecat-ai[cartesia,openai,silero,deepgram]
+fastapi
+uvicorn
+python-dotenv
+loguru
+aiofiles
+aiohttp
+Pillow
+starlette
